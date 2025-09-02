@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VectorShift Integrations Technical Assessment
 
 ## 📋 Project Overview
@@ -681,3 +682,6 @@ For questions or issues:
 
 ---
 
+=======
+# Anirudh_PaL_technical_assessment
+>>>>>>> fc17c5baa738903970a1a37356d708410fbe25b4
